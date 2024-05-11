@@ -3,8 +3,8 @@ title: Advance
 subtitle: Un thème premium et polyvalent
 layout: default
 modal-id: 1
-date: 1 mois
-img: dreams.png
+date: 2024-05-11
+img: Advance$79.PNG
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: 79€/ mois
