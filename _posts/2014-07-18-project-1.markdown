@@ -3,13 +3,13 @@ title: Advance
 subtitle: Un thème premium et polyvalent
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 1 mois
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 79€/ mois
+client: 790 €
+category: complet avec pagination et catégories
+description: Ce thème premium est ultra-flexible et vous permet de construire des sites web marketing, des blogs complets, des portfolios et bien plus encore. Bénéficiez d'un design élégant, d'un code propre et d'une optimisation SEO pour une présence en ligne irréprochable. Ce thème haut de gamme vous offre une personnalisation infinie, une panoplie de fonctionnalités puissantes et un code optimisé pour la vitesse.
 
 ---
