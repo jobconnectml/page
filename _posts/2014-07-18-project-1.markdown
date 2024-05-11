@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Advance
+subtitle: Page d'accueil hautement configurable avec plusieurs sections et des dizaines d'options de présentation
 layout: default
 modal-id: 1
 date: 2014-07-18
