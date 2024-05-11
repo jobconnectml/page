@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2024-05-11
 img: Arnica$29.PNG
-thumbnail: golden-thumbnail.png
+thumbnail: Arnica$29.PNG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
