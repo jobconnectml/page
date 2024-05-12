@@ -4,7 +4,7 @@ baseurl: /agency-jekyll-theme/
 # Site settings
 title: AMMI MarkeTIC
 email: abdoulayedoucoure.ammi@gmail.com
-description: "VOTRE AGENCE MARKETING avec une équipe d’experts spécialisée dans le web et l’IA. Obtenez une présence digitale complète - Simple et Rapide ! Nos délais de livraison d'une semaine par étape peuvent être accélérés à votre demande."
+description: "VOTRE AGENCE DE MARKETING CONVERSATIONNEL avec une équipe d’experts spécialisée dans le web et l’IA. Obtenez une présence digitale complète - Simple et Rapide ! Nos délais de livraison d'une semaine par étape peuvent être accélérés à votre demande."
 
 
 # Team names, titles and social links
@@ -14,11 +14,11 @@ people:
   position: Conseil en strategie
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/neohack22
     - title: facebook
-      url: #
+      url: https://www.facebook.com/ethercourt
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 - name: Ethercourt Machine Learning
   pic: 2
