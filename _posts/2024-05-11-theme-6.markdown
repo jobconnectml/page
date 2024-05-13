@@ -10,10 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Par sa Hiérarchie simplifiée cette pa page se concentre sur l'objectif unique de vente de votre produit ou service.
-En haut de la page, il y a une bannière ou une vidéo captivante présentant l'offre.
-Votre proposition de valeur est présentée en un texte concis mettant en avant les bénéfices du produit ou service.
-L'appel à l'action (CTA) se fait par un bouton ou un lien clair incitant l'utilisateur à acheter ("Acheter maintenant" dans ce cas).
-Selon la complexité de l'offre, on peut trouver des éléments supplémentaires comme des témoignages clients, des logos de confiance ou une FAQ.
+description: Par sa Hiérarchie simplifiée cette pa page se concentre sur l'objectif unique de vente de votre produit ou service. En haut de la page, il y a une bannière ou une vidéo captivante présentant l'offre. Votre proposition de valeur est présentée en un texte concis mettant en avant les bénéfices du produit ou service. L'appel à l'action (CTA) se fait par un bouton ou un lien clair incitant l'utilisateur à acheter ("Acheter maintenant" dans ce cas). Selon la complexité de l'offre, on peut trouver des éléments supplémentaires comme des témoignages clients, des logos de confiance ou une FAQ.
 
 ---
