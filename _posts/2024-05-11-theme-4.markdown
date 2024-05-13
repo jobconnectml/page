@@ -1,6 +1,6 @@
 ---
 title: Made
-subtitle: Website Design
+subtitle: Portfolio audacieux et minimal
 layout: default
 modal-id: 4
 date: 2024-05-13
