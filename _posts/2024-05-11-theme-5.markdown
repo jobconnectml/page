@@ -1,6 +1,6 @@
 ---
 title: Clancy
-subtitle: Boutons de partage social
+subtitle: Portfolio minimaliste
 layout: default
 modal-id: 5
 date: 2024-05-13
