@@ -1,11 +1,11 @@
 ---
-title: Desk
+title: Wrap
 subtitle: Graphic Design
 layout: default
 modal-id: 6
 date: 2024-05-11
-img: Desk$29.PNG
-thumbnail: Desk$29.PNG
+img: wrap-jekyll-theme.webp
+thumbnail: wrap-jekyll-theme.webp
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
