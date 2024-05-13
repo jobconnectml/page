@@ -1,11 +1,11 @@
 ---
-title: Arnica
+title: Argon
 subtitle: Website Design
 layout: default
 modal-id: 3
 date: 2024-05-11
-img: Arnica$29.PNG
-thumbnail: Arnica$29.PNG
+img: argon-detail-03.webp
+thumbnail: argon-detail-03.webp
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
