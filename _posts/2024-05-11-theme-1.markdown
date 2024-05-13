@@ -3,13 +3,13 @@ title: Advance
 subtitle: Un thème premium et polyvalent
 layout: default
 modal-id: 1
-date: 2024-05-11
-img: Advance$79.PNG
+date: 2024-05-13
+img: advance-detail-06.webp
 thumbnail: advance-detail-02.webp
 alt: image-alt
-project-date: 79€/ mois
+project-date: 7
 client: 790 €
-category: complet avec pagination et catégories
+category: Acceuil - Services - Projets - Blog - A propos - Appel à l'action
 description: Ce thème premium est ultra-flexible et vous permet de construire des sites web marketing, des blogs complets, des portfolios et bien plus encore. Bénéficiez d'un design élégant, d'un code propre et d'une optimisation SEO pour une présence en ligne irréprochable. Ce thème haut de gamme vous offre une personnalisation infinie, une panoplie de fonctionnalités puissantes et un code optimisé pour la vitesse.
 
 ---
