@@ -4,7 +4,7 @@ subtitle: Website Design
 layout: default
 modal-id: 3
 date: 2024-05-11
-img: argon-detail-03.webp
+img: argon-jekyll-theme.webp
 thumbnail: argon-detail-03.webp
 alt: image-alt
 project-date: April 2014
