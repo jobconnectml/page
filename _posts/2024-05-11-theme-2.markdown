@@ -9,13 +9,7 @@ thumbnail: doks-jekyll-theme.webp
 alt: image-alt
 project-date: Wiki
 client: 290 €
-category: Acceuil - Page(s)
-description: Gagnez du temps et concluez des transactions plus rapidement
-
-La Dataroom Rapide et Intuitive est conçue pour vous aider à accélérer vos levées de fonds. L'interface intuitive vous permet de partager rapidement et facilement des documents avec vos parties prenantes.
-
-Améliorez la collaboration et la communication
-
-Notre dataroom virtuelle offre la possibilité d'intégrer une Intelligence Artificielle qui vous permet de communiquer efficacement avec vos parties prenantes. Vous pouvez poser des questions et suivre les progrès en temps réel.
+category: Acceuil - Page
+description: Gagnez du temps, améliorez la communication et concluez des transactions plus rapidement. La Dataroom Rapide et Intuitive est conçue pour vous aider à accélérer vos levées de fonds. L'interface intuitive vous permet de partager rapidement et facilement des documents avec vos parties prenantes. Notre dataroom virtuelle offre la possibilité d'intégrer une Intelligence Artificielle qui vous permet de communiquer efficacement avec vos parties prenantes. Ils peuvent ainsi poser des questions et suivre les progrès en temps réel.
 
 ---
