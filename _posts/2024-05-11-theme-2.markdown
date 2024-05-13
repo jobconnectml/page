@@ -4,8 +4,8 @@ subtitle: Dataroom Rapide et Intuitive
 layout: default
 modal-id: 2
 date: 2024-05-13
-img: doks-jekyll-theme.webp
-thumbnail: doks-jekyll-theme.PNG
+img: doks-jekyll-theme.PNG
+thumbnail: doks-jekyll-theme.webp
 alt: image-alt
 project-date: Wiki
 client: 290 €
