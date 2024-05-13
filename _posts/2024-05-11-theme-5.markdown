@@ -1,15 +1,14 @@
 ---
 title: Clancy
-subtitle: Website Design
+subtitle: Boutons de partage social
 layout: default
 modal-id: 5
-date: 2024-05-11
+date: 2024-05-13
 img: Clancy$79.PNG
 thumbnail: clancy-detail-04.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: 5 pages + blog
+client: 700 €
+category: Acceuil - Blog - A propos - Contact - Service - Modes
+description: Ce modèle minimaliste et élégant met en valeur vos photos, illustrations et projets de manière optimale. Son interface intuitive vous permet de créer facilement un portfolio professionnel qui capte l'attention de vos visiteurs. Mettez l'accent sur vos réalisations. Grâce au mode sombre et clair, offrez une expérience de navigation agréable à vos visiteurs. Le chargement ultra-rapide permet de garder vos visiteurs engagés dès les premières secondes. Compatible avec tous les appareils, votre portfolio s'affiche parfaitement sur tous les écrans.
 ---
