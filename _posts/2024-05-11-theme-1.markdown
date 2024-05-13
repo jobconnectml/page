@@ -9,7 +9,7 @@ thumbnail: advance-detail-02.webp
 alt: image-alt
 project-date: 7
 client: 790 €
-category: Acceuil - Services - Projets - Blog - A propos - Appel à l'action
+category: Accueil - Services - Projets - Blog - A propos - Appel à l'action
 description: Ce thème premium est ultra-flexible et vous permet de construire des sites web marketing, des blogs complets, des portfolios et bien plus encore. Bénéficiez d'un design élégant, d'un code propre et d'une optimisation SEO pour une présence en ligne irréprochable. Ce thème haut de gamme vous offre une personnalisation infinie, une panoplie de fonctionnalités puissantes et un code optimisé pour la vitesse.
 
 ---
