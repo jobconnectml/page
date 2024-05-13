@@ -7,7 +7,7 @@ date: 2024-05-13
 img: Clancy$79.PNG
 thumbnail: clancy-detail-04.webp
 alt: image-alt
-project-date: 5 pages + blog
+project-date: 6 pages
 client: 700 €
 category: Acceuil - Blog - A propos - Contact - Service - Modes
 description: Ce modèle minimaliste et élégant met en valeur vos photos, illustrations et projets de manière optimale. Son interface intuitive vous permet de créer facilement un portfolio professionnel qui capte l'attention de vos visiteurs. Mettez l'accent sur vos réalisations. Grâce au mode sombre et clair, offrez une expérience de navigation agréable à vos visiteurs. Le chargement ultra-rapide permet de garder vos visiteurs engagés dès les premières secondes. Compatible avec tous les appareils, votre portfolio s'affiche parfaitement sur tous les écrans.
