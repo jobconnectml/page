@@ -1,15 +1,21 @@
 ---
-title: Applin
-subtitle: Website Design
+title: Dock
+subtitle: Dataroom Rapide et Intuitive
 layout: default
 modal-id: 2
-date: 2024-05-11
-img: Applin$28.PNG
-thumbnail: applin-jekyll-theme.webp
+date: 2024-05-13
+img: doks-jekyll-theme.webp
+thumbnail: doks-jekyll-theme.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Wiki
+client: 290 €
+category: Acceuil - Page(s)
+description: Gagnez du temps et concluez des transactions plus rapidement
+
+La Dataroom Rapide et Intuitive est conçue pour vous aider à accélérer vos levées de fonds. L'interface intuitive vous permet de partager rapidement et facilement des documents avec vos parties prenantes.
+
+Améliorez la collaboration et la communication
+
+Notre dataroom virtuelle offre la possibilité d'intégrer une Intelligence Artificielle qui vous permet de communiquer efficacement avec vos parties prenantes. Vous pouvez poser des questions et suivre les progrès en temps réel.
 
 ---
