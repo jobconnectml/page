@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2024-05-11
 img: Applin$28.PNG
-thumbnail: Applin$28.PNG
+thumbnail: applin-jekyll-theme.webp
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
