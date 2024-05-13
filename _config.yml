@@ -32,7 +32,7 @@ people:
       url: https://www.linkedin.com/company/ethercourt/
 
 - name: Votre entreprise
-  pic: 4
+  pic: 0
   position: Services aux entreprises
   social:
     - title: twitter
