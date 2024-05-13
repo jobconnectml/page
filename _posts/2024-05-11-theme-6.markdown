@@ -4,8 +4,8 @@ subtitle: Sombre et élégant
 layout: default
 modal-id: 6
 date: 2024-05-13
-img: norlin-jekyll-theme.webp
-thumbnail: norlin-detail-05.webp
+img: norlin-detail-05.webp
+thumbnail: norlin-jekyll-theme.webp
 alt: image-alt
 project-date: 4
 client: 490 €
