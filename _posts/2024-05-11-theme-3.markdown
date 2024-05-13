@@ -1,15 +1,15 @@
 ---
 title: Argon
-subtitle: Website Design
+subtitle: Puissance et Flexibilité
 layout: default
 modal-id: 3
-date: 2024-05-11
-img: argon-jekyll-theme.webp
-thumbnail: argon-detail-03.webp
+date: 2024-05-13
+img: argon-detail-03.webp
+thumbnail: argon-jekyll-theme.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 8
+client: 990 €
+category: Accueil - Fonctionnalités - Tarifs - Blog - A propos - Contact
+description: Trois modèles de blog pour choisir le style qui correspond à votre contenu. Design responsive pour offrir une expérience de navigation optimale sur tous les appareils. Fonctionnalités avancées de Galeries d'images, formulaire de contact, etc. Optimisé pour le référencement naturel pour être facilement trouvé par vos visiteurs. Personnalisation poussée pour adapter le thème à votre image de marque.
 
 ---
