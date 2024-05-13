@@ -4,8 +4,8 @@ subtitle: Un thème premium et polyvalent
 layout: default
 modal-id: 1
 date: 2024-05-13
-img: advance-jekyll-theme.webp
-thumbnail: advance-detail-02.webp
+img: advance-detail-02.webp
+thumbnail: advance-jekyll-theme.webp
 alt: image-alt
 project-date: 7
 client: 790 €
