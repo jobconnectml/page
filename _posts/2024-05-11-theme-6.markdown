@@ -1,15 +1,15 @@
 ---
-title: Wrap
-subtitle: Design créatif et épuré
+title: Norlin
+subtitle: Sombre et élégant
 layout: default
 modal-id: 6
 date: 2024-05-13
-img: wrap-jekyll-theme.webp
-thumbnail: wrap-jekyll-theme.webp
+img: norlin-detail-05.webp
+thumbnail: norlin-detail-05.webp
 alt: image-alt
-project-date: Page de couverture + Blog + Portfolio
-client: 240 €
-category: Acceuil - A propos - Services - Travaux - Equipe - Blog
-description: Par sa hiérarchie simplifiée cette la page d'acceuil se concentre sur l'objectif unique de vente de votre produit ou service. En haut de la page, il y a une bannière ou une vidéo captivante en plein écran présentant l'offre. Votre proposition de valeur est présentée en un texte concis mettant en avant les bénéfices du produit ou service. L'appel à l'action (CTA) se fait par un bouton ou un lien clair incitant l'utilisateur à acheter ("Acheter maintenant" dans ce cas). Selon la complexité de l'offre, on peut trouver des éléments supplémentaires comme des témoignages clients, des logos de confiance ou une FAQ.
+project-date: 4
+client: 490 €
+category: Acceuil - A propos - Contactez nous - Services - Appel à l'action - Recherche
+description: Ce modèle minimaliste au design sombre est conçu pour les blogueurs passionnés qui cherchent à créer un espace d'expression unique et captivant. Son interface élégante et ses fonctionnalités performantes vous permettent de partager vos écrits avec style et d'attirer un lectorat fidèle. Son thème sombre et minimaliste offre une expérience de lecture agréable et immersive. Son design 100% responsive s'affiche parfaitement sur tous les écrans. Optimisé pour le mobile, permettez à vos lecteurs de vous suivre partout. Avec les fonctionnalités de partage social intégrées, partagez facilement vos articles avec votre réseau. Sa navigation fluide et intuitive garde vos lecteurs engagés.
 
 ---
