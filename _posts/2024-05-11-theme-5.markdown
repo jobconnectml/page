@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2024-05-11
 img: Clancy$79.PNG
-thumbnail: Clancy$79.PNG
+thumbnail: clancy-detail-04.webp
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
