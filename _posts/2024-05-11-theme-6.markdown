@@ -1,15 +1,15 @@
 ---
 title: Wrap
-subtitle: Graphic Design
+subtitle: Design créatif et épuré
 layout: default
 modal-id: 6
-date: 2024-05-11
+date: 2024-05-13
 img: wrap-jekyll-theme.webp
 thumbnail: wrap-jekyll-theme.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Par sa Hiérarchie simplifiée cette la page d'acceuil se concentre sur l'objectif unique de vente de votre produit ou service. En haut de la page, il y a une bannière ou une vidéo captivante présentant l'offre. Votre proposition de valeur est présentée en un texte concis mettant en avant les bénéfices du produit ou service. L'appel à l'action (CTA) se fait par un bouton ou un lien clair incitant l'utilisateur à acheter ("Acheter maintenant" dans ce cas). Selon la complexité de l'offre, on peut trouver des éléments supplémentaires comme des témoignages clients, des logos de confiance ou une FAQ.
+project-date: Page de couverture + Blog + Portfolio
+client: 240 €
+category: Acceuil - A propos - Services - Travaux - Equipe - Blog
+description: Par sa hiérarchie simplifiée cette la page d'acceuil se concentre sur l'objectif unique de vente de votre produit ou service. En haut de la page, il y a une bannière ou une vidéo captivante en plein écran présentant l'offre. Votre proposition de valeur est présentée en un texte concis mettant en avant les bénéfices du produit ou service. L'appel à l'action (CTA) se fait par un bouton ou un lien clair incitant l'utilisateur à acheter ("Acheter maintenant" dans ce cas). Selon la complexité de l'offre, on peut trouver des éléments supplémentaires comme des témoignages clients, des logos de confiance ou une FAQ.
 
 ---
