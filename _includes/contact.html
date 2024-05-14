@@ -44,18 +44,23 @@
             </div>
 -->
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name">Nom entier</label>
-    <input type="text" name="name" id="full-name" placeholder="Prénom et Nom de famille" required="">
-    <label for="email-address">Addresse Email</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domaine.tld" required="">
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Vous avez un projet ? Laissez-nous vos coordonnées et un consultant reviendra vers vous dans les meilleurs délais." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  </fieldset>
-  <input type="submit" value="Envoyer">
-</form>
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3FhDvN10RBR7zAEdptGB9JzOFmcC3370BFYhO3Qs645BAJRkKGFabNK0Iuk-5SGFWypCQy0crG?gv=true',
+      color: '#039BE5',
+      label: 'Réserver un rendez-vous',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
 
         </div>
     </section>
