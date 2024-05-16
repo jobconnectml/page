@@ -2,8 +2,8 @@
 color:
   primary: 7E1D34 #e0001a 172882 fed136
   secondary: 1c205b #7E1D34 #e0001a 172882 fec503   
-  secondary-dark: 151541 #333
-  muted: 777 #1c205b 7E1D34 FFFFFF 
+  secondary-dark: 333 #151541 (gris foncé <-> bleu)
+  muted: 777 #1c205b 7E1D34 FFFFFF (blanc devenu gris)
 
 # Font Families
 font:
