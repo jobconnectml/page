@@ -31,16 +31,16 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/company/ethercourt/
 
-- name: innovatics
-  pic: BookBrushImage3D-03Flat #0
-  position: Création de contenu
+- name: Synergie PoC-compétences
+  pic: BookBrushImage5059
+  position: Guide pour aligner la validation de concept sur les besoins réels en compétences
   social:
-    - title: medium
-      url: https://medium.com/innovatics
+    - title: fa-tablet
+      url: 
+    - title: fa-amazon
+      url: 
     - title: facebook
-      url: https://m.facebook.com/p/Innovatics-100079875672329/
-    - title: linkedin
-      url: https://www.linkedin.com/showcase/innovatics-ml/
+      url: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
