@@ -32,7 +32,7 @@ people:
       url: https://www.linkedin.com/company/ethercourt/
 
 - name: innovatics
-  pic: 0
+  pic: BookBrushImage3D-03Flat #0
   position: Création de contenu
   social:
     - title: medium
