@@ -24,7 +24,7 @@ people:
   pic: 2
   position: Couverture souple
   social:
-    - title: web # twitter
+    - title: book # twitter
       url: shop.ethercourt.ml # https://twitter.com/ethercourt
     - title: amazon # facebook
       url: # https://www.facebook.com/ethercourt/
