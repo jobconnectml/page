@@ -20,38 +20,6 @@ people:
     # - title: linkedin
       # url: https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
-- name: Edition Premium # Ethercourt Machine Learning
-  pic: 2
-  position: Couverture souple
-  social:
-    - title: book # twitter
-      url: shop.ethercourt.ml # https://twitter.com/ethercourt
-    - title: amazon # facebook
-      url: # https://www.facebook.com/ethercourt/
-    # - title: linkedin
-      # url: https://www.linkedin.com/company/ethercourt/
-
-- name: Edition Entreprise # Synergie PoC-compétences
-  pic: BookBrushImage5059
-  position: Couverture rigide # Guide pour aligner la validation de concept sur les besoins réels en compétences
-  social:
-    - title: book # tablet
-      url: 
-    - title: amazon
-      url: 
-    # - title: facebook
-      # url: 
-
-- name: Edition Entreprise # Synergie PoC-compétences
-  pic: BookBrushImage5059
-  position: Couverture rigide # Guide pour aligner la validation de concept sur les besoins réels en compétences
-  social:
-    - title: book # tablet
-      url: 
-    - title: amazon
-      url: 
-    # - title: facebook
-      # url: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
