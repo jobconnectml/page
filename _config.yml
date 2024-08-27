@@ -9,38 +9,38 @@ description: "Services IA pour la gestion des talents : Formations, chatbots, et
 
 # Team names, titles and social links
 people:
-- name: Formats numériques
+- name: Edition numérique
   pic: 1
-  position: Format numérique
+  position: Kindle | Google Play Livres
   social:
     - title: amazon
       url: https://twitter.com/neohack22
-    - title: amazon
+    - title: google
       url: https://amzn.eu/d/gXZF6bS
-    - title: linkedin
-      url: https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+    # - title: linkedin
+      # url: https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
-- name: Ethercourt Machine Learning
+- name: Edition Premium # Ethercourt Machine Learning
   pic: 2
-  position: Conseil en IA
+  position: Couverture souple
   social:
-    - title: twitter
-      url: https://twitter.com/ethercourt
-    - title: facebook
-      url: https://www.facebook.com/ethercourt/
-    - title: linkedin
-      url: https://www.linkedin.com/company/ethercourt/
+    - title: web # twitter
+      url: shop.ethercourt.ml # https://twitter.com/ethercourt
+    - title: amazon # facebook
+      url: # https://www.facebook.com/ethercourt/
+    # - title: linkedin
+      # url: https://www.linkedin.com/company/ethercourt/
 
-- name: Synergie PoC-compétences
+- name: Edition Entreprise # Synergie PoC-compétences
   pic: BookBrushImage5059
-  position: Guide pour aligner la validation de concept sur les besoins réels en compétences
+  position: Couverture rigide # Guide pour aligner la validation de concept sur les besoins réels en compétences
   social:
-    - title: tablet
+    - title: book # tablet
       url: 
     - title: amazon
       url: 
-    - title: facebook
-      url: 
+    # - title: facebook
+      # url: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
