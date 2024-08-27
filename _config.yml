@@ -13,9 +13,9 @@ people:
   pic: 1
   position: Aperçu | Emprunt
   social:
-    - title: amazon
-      url: https://twitter.com/neohack22
     - title: google
+      url: https://twitter.com/neohack22
+    - title: amazon
       url: https://amzn.eu/d/gXZF6bS
     # - title: linkedin
       # url: https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
