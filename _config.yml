@@ -10,7 +10,7 @@ description: "Services IA pour la gestion des talents : Formations, chatbots, et
 # Team names, titles and social links
 people:
 - name: Recruteur
-  pic: bots-brands-solid # 1
+  pic: bots-brands-solid.svg # 1
   position: Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
