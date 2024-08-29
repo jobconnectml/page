@@ -9,6 +9,18 @@ description: "Services IA pour la gestion des talents : Formations, chatbots, et
 
 # Team names, titles and social links
 people:
+- name: Responsable RH
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: Chatbot RH dédié # Rédiger des offres d'emploi
+  social:
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+
 - name: Recruteur
   pic: message-bot # download bots-brands-solid.svg 1
   position: Rédiger des offres d'emploi
@@ -21,27 +33,40 @@ people:
       url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 
-- name: Edition Premium # Ethercourt Machine Learning
-  pic: 2
-  position: Couverture souple
+- name: Recruteur
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: Décrire des postes de travail # Rédiger des offres d'emploi
   social:
-    - title: book # twitter
-      url: shop.ethercourt.ml # https://twitter.com/ethercourt
-    - title: amazon # facebook
-      url: # https://www.facebook.com/ethercourt/
-    # - title: linkedin
-      # url: https://www.linkedin.com/company/ethercourt/
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
-- name: Edition Entreprise # Synergie PoC-compétences
-  pic: BookBrushImage5059
-  position: Couverture rigide # Guide pour aligner la validation de concept sur les besoins réels en compétences
+
+- name: Recruteur
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: Vérifier les éligibilité aux postes # Rédiger des offres d'emploi
   social:
-    - title: book # tablet
-      url: 
-    - title: amazon
-      url: 
-    # - title: facebook
-      # url: 
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+
+- name: Recruteur
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: Décrire des postes de travail # Rédiger des offres d'emploi
+  social:
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
