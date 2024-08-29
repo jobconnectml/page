@@ -9,9 +9,9 @@ description: "Services IA pour la gestion des talents : Formations, chatbots, et
 
 # Team names, titles and social links
 people:
-- name: Responsable RH
+- name: Chatbot RH dédié à votre entreprise
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Chatbot RH dédié # Rédiger des offres d'emploi
+  position: IA de base # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -21,9 +21,9 @@ people:
       url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 
-- name: Recruteur
+- name: Rédiger des offres d'emploi
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Rédiger des offres d'emploi
+  position: Spécialisation IA en option
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -33,9 +33,9 @@ people:
       url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 
-- name: Recruteur
+- name: Décrire des postes de travail # Recruteur
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Décrire des postes de travail # Rédiger des offres d'emploi
+  position: Spécialisation IA en option # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -45,9 +45,9 @@ people:
       url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 
-- name: Recruteur
+- name: Vérifier les éligibilité aux postes # Recruteur
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Vérifier les éligibilité aux postes # Rédiger des offres d'emploi
+  position: Spécialisation IA en option # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -57,9 +57,9 @@ people:
       url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 
-- name: Recruteur
+- name: Décrire des postes de travail # Recruteur
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Décrire des postes de travail # Rédiger des offres d'emploi
+  position: Spécialisation IA en option # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -67,6 +67,55 @@ people:
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
     - title: whatsapp
       url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+
+- name: Analyser les CV de vos candidats
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: Spécialisation IA en option
+  social:
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+
+- name: Rédiger les courriers de prise de contact avec vos candidats
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: Spécialisation IA en option # Rédiger des offres d'emploi
+  social:
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+
+- name: Faire des simulations d'entretien avec vos candidats
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: Spécialisation IA en option # Rédiger des offres d'emploi
+  social:
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+
+- name: Préparer vos candidats à postuler # Recruteur
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: Spécialisation IA en option # Rédiger des offres d'emploi
+  social:
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
