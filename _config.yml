@@ -9,7 +9,7 @@ description: "Services IA pour la gestion des talents : Formations, chatbots, et
 
 # Team names, titles and social links
 people:
-- name: Chatbot RH dédié à votre entreprise
+- name: Chatbot de recrutement dédié à votre entreprise
   pic: message-bot # download bots-brands-solid.svg 1
   position: IA de base # Rédiger des offres d'emploi
   social:
