@@ -1,15 +1,15 @@
 ---
-title: Advance
-subtitle: Un thème premium et polyvalent
+title: Gérer le processus de recrutement
+subtitle: Masterclass
 layout: default
 modal-id: 1
-date: 2024-05-13
+date: 2024-08-30
 img: advance-detail-02.webp
 thumbnail: advance-jekyll-theme.webp
 alt: image-alt
-project-date: 7
-client: 790 €
-category: Accueil - Services - Projets - Blog - A propos - Appel à l'action
-description: Ce thème premium est ultra-flexible et vous permet de construire des sites web marketing, des blogs complets, des portfolios et bien plus encore. Bénéficiez d'un design élégant, d'un code propre et d'une optimisation SEO pour une présence en ligne irréprochable. Ce thème haut de gamme vous offre une personnalisation infinie, une panoplie de fonctionnalités puissantes et un code optimisé pour la vitesse.
+project-date: 850 €
+client: 200 €
+category: 3 500 €
+description: Déverrouillez une nouvelle ère de gestion du recrutement avec l'Intelligence Artificielle. Conçu pour répondre aux besoins des entreprises en expansion, cette masterclass vous permet de gérer efficacement tout le processus de recrutement, de la recherche de candidats à la rédaction de descriptions de poste attractifs. Utilisez l'intelligence de ChatGPT pour affiner vos approches et capter l'attention des candidats les plus qualifiés. Avec notre série de requêtes optimisées, transformez votre manière d'embaucher les futurs talents de votre organisation.
 
 ---
