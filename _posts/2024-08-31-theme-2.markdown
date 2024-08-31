@@ -1,0 +1,15 @@
+---
+title: Gérer le processus d'entretien
+subtitle: Masterclass
+layout: default
+modal-id: 2
+date: 2024-08-31
+img: Gérer le processus d'entretien Animated Marketing thumbnail.gif
+thumbnail: Gérer le processus d'entretien Animated Marketing thumbnail.gif
+alt: image-alt
+project-date: Nous contacter
+client: Réserver
+category: S'abonner
+description: Passez moins de temps à préparer vos entretiens et plus de temps à trouver le candidat idéal. Cette masterclass vous permet de trouver une liste de questions d'entretiens personnalisées basées sur vos descriptions de poste. Grâce à l'intelligence artificielle, identifiez les compétences clés et les points forts de vos candidats pour prendre des décisions éclairées. Cette formation est votre arme secrète pour un recrutement efficace. Lancez-vous dès maintenant !
+
+---
