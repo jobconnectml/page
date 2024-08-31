@@ -7,9 +7,9 @@ date: 2024-08-30
 img: Gerer processus recrutement Animated Marketing thumbnail.gif
 thumbnail: Gerer processus recrutement Animated Marketing thumbnail.gif
 alt: image-alt
-project-date: 850 €
-client: 200 €
-category: 3 500 €
+project-date: Nous contacter
+client: Réserver
+category: S'abonner
 description: Déverrouillez une nouvelle ère de gestion du recrutement avec l'Intelligence Artificielle. Conçu pour répondre aux besoins des entreprises en expansion, cette masterclass vous permet de gérer efficacement tout le processus de recrutement, de la recherche de candidats à la rédaction de descriptions de poste attractifs. Utilisez l'intelligence de ChatGPT pour affiner vos approches et capter l'attention des candidats les plus qualifiés. Avec notre série de requêtes optimisées, transformez votre manière d'embaucher les futurs talents de votre organisation.
 
 ---
