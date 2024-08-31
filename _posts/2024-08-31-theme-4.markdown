@@ -1,5 +1,5 @@
 ---
-title: Communiquez efficacement les résultats de vos recherches
+title: Communiquez les résultats de vos recherches
 subtitle: Masterclass
 layout: default
 modal-id: 4
