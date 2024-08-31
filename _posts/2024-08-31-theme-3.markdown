@@ -3,9 +3,9 @@ title: Argon
 subtitle: Puissance et Flexibilité
 layout: default
 modal-id: 3
-date: 2024-05-13
-img: argon-detail-03.webp
-thumbnail: argon-jekyll-theme.webp
+date: 2024-08-31
+img: Candidate communication Animated Marketing thumbnail.gif
+thumbnail: Candidate communication Animated Marketing thumbnail.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
