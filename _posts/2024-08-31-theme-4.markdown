@@ -1,0 +1,15 @@
+---
+title: Communiquez efficacement les résultats de vos recherches
+subtitle: Masterclass
+layout: default
+modal-id: 4
+date: 2024-08-31
+img: surveys Animated Marketing thumbnail.gif
+thumbnail: surveys Animated Marketing thumbnail.gif
+alt: image-alt
+project-date: Nous contacter
+client: Réserver
+category: S'abonner
+description: Cette masterclass vous aide à extraire des insights précieux de vos données de recherche. Gérez les résumés, les points clés et la présentation de vos résultats de manière efficace. Assurez une communication transparente et efficace avec vos équipes de direction. Essayez cette formation dès aujourd'hui et tirez le meilleur parti de vos données de recherche.
+
+---
