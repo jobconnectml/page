@@ -4,8 +4,8 @@ subtitle: Masterclass
 layout: default
 modal-id: 1
 date: 2024-08-30
-img: Beige Modernn Free Online Webinar Promotion Instagram Reel.mp4
-thumbnail: Beige Modernn Free Online Webinar Promotion Instagram Reel.gif
+img: Gerer processus recrutement Animated Marketing thumbnail.gif
+thumbnail: Beige Modernn Free Online Webinar Promotion Instagram Reel.mp4
 alt: image-alt
 project-date: 850 €
 client: 200 €
