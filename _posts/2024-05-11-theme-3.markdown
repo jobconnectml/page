@@ -7,9 +7,9 @@ date: 2024-05-13
 img: argon-detail-03.webp
 thumbnail: argon-jekyll-theme.webp
 alt: image-alt
-project-date: 8
-client: 990 €
-category: Accueil - Fonctionnalités - Tarifs - Blog - A propos - Contact
-description: Trois modèles de blog pour choisir le style qui correspond à votre contenu. Design responsive pour offrir une expérience de navigation optimale sur tous les appareils. Fonctionnalités avancées de Galeries d'images, formulaire de contact, etc. Optimisé pour le référencement naturel pour être facilement trouvé par vos visiteurs. Personnalisation poussée pour adapter le thème à votre image de marque.
+project-date: Nous contacter
+client: Réserver
+category: S'abonner
+description: Notre formation vous aide à attirer et à retenir les meilleurs talents grâce à des offres d'emploi personnalisées et attrayantes. Gérez les lettres d'offre, les détails de compensation et les informations sur les avantages sociaux de manière efficace. Assurez-vous de présenter votre entreprise sous le meilleur jour possible pour attirer les candidats les plus qualifiés. Essayez la masterclass dès aujourd'hui et renforcez votre marque employeur. Cette Masterclass vous permet de transmettre des messages de refus avec empathie et compréhension. Gérez les lettres de refus avec des modèles qui expriment votre appréciation pour les candidats et les encouragent à poursuivre leurs recherches. Renforcez votre réputation en tant qu'employeur bienveillant et favorisez des relations positives avec les candidats. Humanisez votre processus de recrutement.
 
 ---
