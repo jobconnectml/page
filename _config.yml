@@ -81,7 +81,7 @@ people:
       url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 
-- name: Rédiger les courriers de prise de contact avec vos candidats
+- name: Rédiger les courriers de prise de contact # avec vos candidats
   pic: message-bot # download bots-brands-solid.svg 1
   position: Extension IA # Rédiger des offres d'emploi
   social:
@@ -93,7 +93,7 @@ people:
       url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 
-- name: Faire des simulations d'entretien avec vos candidats
+- name: Faire des simulations d'entretien # avec vos candidats
   pic: message-bot # download bots-brands-solid.svg 1
   position: Extension IA # Rédiger des offres d'emploi
   social:
