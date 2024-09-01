@@ -1,0 +1,16 @@
+---
+title: externalisation des processus métier à l'IA
+subtitle: Séminaire
+layout: default
+modal-id: 6
+date: 2024-09-01
+img: Elearning.gif
+thumbnail: Elearning.gif
+alt: image-alt
+project-date: Nous contacter
+client: Réserver
+category: S'abonner
+description: Ne manquez pas notre séminaire de formation d'une semaine sur l'externalisation des processus métier à l'IA. Découvrez comment l'intelligence artificielle peut vous aider à atteindre vos objectifs commerciaux plus rapidement et plus efficacement.
+
+
+---
