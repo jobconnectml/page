@@ -11,7 +11,7 @@ description: "Services IA pour la gestion des talents : Formations, chatbots, et
 people:
 - name: Chatbot RH dédié à votre entreprise
   pic: message-bot # download bots-brands-solid.svg 1
-  position: IA de base # Rédiger des offres d'emploi
+  position: Chatbot de base # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -23,7 +23,7 @@ people:
 
 - name: Rédiger des offres d'emploi
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Spécialisation IA en option
+  position: Extension IA
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -35,7 +35,7 @@ people:
 
 - name: Décrire des postes de travail # Recruteur
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Spécialisation IA en option # Rédiger des offres d'emploi
+  position: Extension IA # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -47,7 +47,7 @@ people:
 
 - name: Vérifier les éligibilité aux postes # Recruteur
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Spécialisation IA en option # Rédiger des offres d'emploi
+  position: Extension IA # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -59,7 +59,7 @@ people:
 
 - name: Décrire des postes de travail # Recruteur
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Spécialisation IA en option # Rédiger des offres d'emploi
+  position: Extension IA # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -71,7 +71,7 @@ people:
 
 - name: Analyser les CV de vos candidats
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Spécialisation IA en option
+  position: Extension IA
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -83,7 +83,7 @@ people:
 
 - name: Rédiger les courriers de prise de contact avec vos candidats
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Spécialisation IA en option # Rédiger des offres d'emploi
+  position: Extension IA # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -95,7 +95,7 @@ people:
 
 - name: Faire des simulations d'entretien avec vos candidats
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Spécialisation IA en option # Rédiger des offres d'emploi
+  position: Extension IA # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -107,7 +107,7 @@ people:
 
 - name: Préparer vos candidats à postuler # Recruteur
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Spécialisation IA en option # Rédiger des offres d'emploi
+  position: Extension IA # Rédiger des offres d'emploi
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
