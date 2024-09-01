@@ -1,0 +1,14 @@
+---
+title: Le futur de la gestion des talents
+subtitle: Conférence
+layout: default
+modal-id: 5
+date: 2024-09-01
+img: conference.gif
+thumbnail: conference.gif
+alt: image-alt
+project-date: Nous contacter
+client: Réserver
+category: S'abonner
+description: Ne manquez pas cette conférence d'une journée sur l'IA en RH. Découvrez une sélection de masterclasses spécialement conçues pour vous aider à utiliser l'IA pour améliorer le recrutement, la formation, la gestion des performances et la satisfaction des employés. Gagnez en efficacité, réduisez les coûts et préparez votre entreprise pour l'avenir.
+---
